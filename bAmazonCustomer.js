@@ -30,7 +30,7 @@ function displayItems() {
     if (err) throw err;
     // Log all results of the SELECT statement
 
-    console.log("this item_id is " + res[0].ITEM_ID);
+    // console.log("this item_id is " + res[0].ITEM_ID);
 
     for (var i = 0; i < res.length; i++) {
       console.log(`Item ID# for Sale: ${res[i].ITEM_ID}
