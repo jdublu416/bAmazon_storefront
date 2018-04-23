@@ -8,6 +8,6 @@ This project is a CLI so in order to run this application, one will need to inst
 
 ##**Usage:**
 First step is to call the program:
-![step one of program](https:jdublu416)
+![step one of program](https://github.com/jdublu416/bAmazon_storefront/blob/master/images/Screenshot%20(1).png)
 
 
