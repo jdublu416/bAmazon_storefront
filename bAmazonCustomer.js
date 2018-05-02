@@ -23,6 +23,7 @@ connection.connect(function(err) {
   displayItems();
 });
 
+//function to display items
 function displayItems() {
   console.log("Selection of all products available for purchase...\n");
   var sql = "SELECT ITEM_ID, PRODUCT_NAME, PRICE, STOCK_QUANTITY FROM products";
